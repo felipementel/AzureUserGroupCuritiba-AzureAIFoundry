@@ -1,0 +1,1 @@
+# AzureUserGroupCuritiba-AzureAIFoundry
